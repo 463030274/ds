@@ -1,4 +1,3 @@
-#EXTINF:-1 group-title="成人1",Desire
 松视1,http://18.svi-studio.com:80/live/478790710441/100371347442/5.m3u8
 松视1,http://18.svi-studio.com:80/live/176844830209/558261845324/5.m3u8
 松视1,http://18.svi-studio.com:80/live/055613148424/758984796805/5.m3u8
@@ -1650,6 +1649,7 @@ http://88.212.7.11/live/test_eroxxx_hd_hevc/playlist.m3u8
 http://88.212.7.11/live/test_extasy_hd_hevc/playlist.m3u8
 #EXTINF:-1 group-title="成人",Erox HD
 http://88.212.7.11/live/test_erox_hd_hevc/playlist.m3u8
+
 
 
 
